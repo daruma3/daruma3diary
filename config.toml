@@ -15,16 +15,16 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
-  mainSections = ["post","posts"]
+  subtitle = "とある大学生の備忘録"
+  mainSections = ["post","books","thesis"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "2006/01/02"
   commit = false
-  rss = true
+  rss = false
   comments = true
-  readingTime = true
-  wordCount = true
+  readingTime = false
+  wordCount = false
   useHLJS = true
   socialShare = true
   delayDisqus = true
