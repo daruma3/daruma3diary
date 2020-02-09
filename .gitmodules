@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/daruma3/daruma3.github.io
+	branch = master
