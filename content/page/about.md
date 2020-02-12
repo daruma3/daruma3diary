@@ -1,7 +1,7 @@
 ---
 title: About me
-subtitle: このサイトについて
+subtitle: ""
 comments: false
 ---
 
-このサイトは管理者が本・論文等から得た知見・知識をため込んでおく場所です
+とある都内の大学生．趣味は筋トレ，ビール．atcoder緑，HRI，HAI．ロボットに心を実装する
